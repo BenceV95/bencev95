@@ -54,9 +54,16 @@ Open to **junior full-stack developer roles**, freelance projects, or just chatt
 🐙 **GitHub:** [@bencev95](https://github.com/BenceV95)
 
 ---
+## Achievements
 
+CodeWars: <img src="https://www.codewars.com/users/BenceV95/badges/large" />
+---
 ## 📈 GitHub Stats
 
-![Bence's GitHub stats](https://github-readme-stats.vercel.app/api?username=benceveres&show_icons=true&theme=tokyonight)
+![Bence's GitHub stats](https://github-readme-stats.vercel.app/api?username=BenceV95&show_icons=true&theme=tokyonight)
 
 ---
+
+```
+Last modified: 16/04/2025
+```
