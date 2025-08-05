@@ -6,23 +6,32 @@ Currently focused on: **React**, **C#**, **ASP.NET Core**, **PostgreSQL**, and *
 
 ---
 
-## 🚀 What I'm Working On
+## 🚀 What I've been Working On
 
+- 🧠  [OkosPenz](https://okospenz.com): A simple but useful budgeting app. 
+  **Stack:** NextJS, Tailwind, ASP.NET Core, Entity Framework, PostgreSQL
+  
 - 🛠️ [SolarWatch](https://solarwatch.benceveres.com): Full-stack project showing sunrise/sunset data  
   **Stack:** React, ASP.NET Core, PostgreSQL
 
 - 📦 [AskApe](https://askape.benceveres.com): Q&A Platform: A forum-style app for users to ask and answer questions  
   **Stack:** React, ASP.NET Core, PostgreSQL
 
-- 🧠 AI Cold Email Generator: Helping freelancers create smart cold emails  
-  **Stack:** Python, Open WebUI, LLMs running locally on my videocard
+- 🏠 [PuraDomus](https://puradomus.benceveres.com): A household responsibility sharing app.
+  **Stack:** NextJS, Bootstrap, ASP.NET Core, Entity Framework, PostgreSQL
+
+- 🎵 [DJ Benya](https://github.com/BenceV95/discord_bot_yt_player): A discord bot to help play youtube videos as audio in your channel like music or memes.
+  **Stack:** NodeJS
+
+- 🔊 [Audio2Text](https://github.com/BenceV95/Audio2TextViaWhisper): Turn audio into subtitles easily using OpenAI's Whisper.
+  **Stack:** Python, Whisper
 
 ---
 
 ## 🧰 Tech Stack
 
 **Frontend:**  
-React, Next.js, JavaScript, HTML5, CSS3, Tailwind CSS
+React, Next.js, JavaScript, TypeScript, HTML5, CSS3, Tailwind CSS, Bootstrap
 
 **Backend:**  
 C#, ASP.NET Core, Entity Framework, Node.js
@@ -65,5 +74,5 @@ CodeWars: <img src="https://www.codewars.com/users/BenceV95/badges/large" />
 ---
 
 ```
-Last modified: 16/04/2025
+Last modified: 05/08/2025
 ```
